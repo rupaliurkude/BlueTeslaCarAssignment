@@ -1,0 +1,137 @@
+{
+
+	"Car": [
+
+		{
+
+			"make": "Audi",
+
+			"model": "A7",
+
+			"vin": "09AGHY64352JITEG98K",
+
+			"metadata": {
+
+				"Color": "Black",
+
+				"Notes": "Scratches on the front side of the car"
+
+			},
+
+			"perdayrent": {
+
+				"Price": 140,
+
+				"Discount": 15
+
+			},
+
+			"metrics": {
+
+				"yoymaintenancecost": 2190.76,
+
+				"depreciation": 2256.43,
+
+				"rentalcount": {
+
+					"lastweek": 4,
+
+					"yeartodate": 221
+
+				}
+
+			}
+
+		},
+
+		{
+
+			"make": "Tesla",
+
+			"model": "A7",
+
+			"vin": "09AGHY64352JITEG98K",
+
+			"metadata": {
+
+				"Color": "Blue",
+
+				"Notes": "Scratches on the back side of the car"
+
+			},
+
+			"perdayrent": {
+
+				"Price": 145,
+
+				"Discount": 15
+
+			},
+
+			
+
+			"metrics": {
+
+				"yoymaintenancecost": 2190.76,
+
+				"depreciation": 2256.43,
+				"rentalcount": {
+
+					"lastweek": 4,
+
+					"yeartodate": 221
+
+				}
+
+			}
+
+		},
+		
+		{
+
+			"make": "Tesla",
+
+			"model": "S",
+
+			"vin": "18AGHY64352JITEG98F",
+
+			"metadata": {
+
+				"Color": "Blue",
+
+				"Notes": " Black spot found on  mirrors of the car"
+
+			},
+
+			"perdayrent": {
+
+				"Price": 200,
+
+				"Discount": 10
+
+			},
+
+			
+
+			"metrics": {
+
+				"yoymaintenancecost": 1999.76,
+
+				"depreciation": 2222.43,
+				
+				"rentalcount": {
+
+					"lastweek": 1,
+
+					"yeartodate": 112
+
+				}
+
+			}
+
+		}
+		
+
+	]
+
+}
